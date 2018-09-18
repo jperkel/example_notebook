@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jperkel/example_notebook/master)
 
-This simple Jupyter notebook demonstrates how the computational notebook format allows users to interleave text, code, and results in a single file.
+This simple [Jupyter](https://jupyter.org/) notebook demonstrates how the computational notebook format allows users to interleave text, code, and results in a single file.
 
 But, unless you have Jupyter notebook installed on your computer, all you can do is view the notebooks, not play with them. (See for yourself: If you click `My_sample_notebook.ipynb` in this GitHub repository, you will be able to read the notebook, but only as a static document.) This is where [Binder](https://mybinder.org) comes in. Binder is a free, open-source, web service that packages Jupyter notebooks inside an executable container, which can be run within a web browser, no installation required.
 
