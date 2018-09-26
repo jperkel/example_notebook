@@ -17,9 +17,9 @@ Alternatively, you can launch the notebook in Google's [Colaboratory](https://co
 
 1. Click the `Open in Colab` button above. It will launch the notebook directly.
 2. Make the notebook live by clicking 'Connect' in the Colab toolbar. (You may get a warning that the page was not authored by Google.)
-3. You'll need to uncomment a few lines of code to make the notebook work. Scroll down to cell #5, which reads: 
-    `# !pip install biopython
-    `# !curl -O https://raw.githubusercontent.com/jperkel/example_notebook/master/NC_005816.gb`
+3. You'll need to uncomment a few lines of code to make the notebook work. Scroll down to cell #5, which reads:  
+    `# !pip install biopython  
+    `# !curl -O https://raw.githubusercontent.com/jperkel/example_notebook/master/NC_005816.gb`  
 4. Uncomment this cell by removing the two leading `#`.
 5. Repeat for cell #12, which reads: `# !pip install folium`
 6. Select `Runtime > Run All` in the menu to execute the notebook 
