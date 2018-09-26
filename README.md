@@ -9,6 +9,20 @@ But, unless you have Jupyter notebook installed on your computer, all you can do
 
 1. Click the `launch binder` button above. Once the demo launches, click `My_sample_notebook.ipynb` in the file listing.
 2. Run the notebook by selecting `Cell > Run All`.
-3. Take a look at the graph below the fourth cell (labeled 'In [4]').
+3. Take a look at the graph below the fourth cell (labeled 'The First 25 Fibonacci Numbers').
 4. Uncomment the line in the fourth cell that reads `# ax.plot (range(25), ar)` by removing the leading hashtag (`#`)
 5. Click `Cell > Run All` again. You should see a change in the graph below that cell.
+
+Alternatively, you can launch the notebook in Google's [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb) environment, assuming you have a Google account. 
+
+1. Click the `Open in Colab` button above. It will launch the notebook directly.
+2. Make the notebook live by clicking 'Connect' in the Colab toolbar. (You may get a warning that the page was not authored by Google.)
+3. You'll need to uncomment a few lines of code to make the notebook work. Scroll down to cell #5, which reads: 
+    `# !pip install biopython
+    `# !curl -O https://raw.githubusercontent.com/jperkel/example_notebook/master/NC_005816.gb`
+4. Uncomment this cell by removing the two leading `#`.
+5. Repeat for cell #12, which reads: `# !pip install folium`
+6. Select `Runtime > Run All` in the menu to execute the notebook 
+7. Take a look at the graph below the fourth cell (labeled 'The First 25 Fibonacci Numbers').
+8. Uncomment the line in the fourth cell that reads `# ax.plot (range(25), ar)` by removing the leading hashtag (`#`)
+9. Click `Runtime > Run All` again. You should see a change in the graph below that cell.
