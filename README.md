@@ -19,7 +19,7 @@ But, unless you have Jupyter notebook installed on your computer, all you can do
 2. Make the notebook live by clicking 'Connect' in the Colab toolbar. 
 3. You'll need to uncomment a few lines of code to make the notebook work. Navigate to the first cell, which reads:  
     `# !pip install biopython`  
-    `# !pip install folium`
+    `# !pip install folium`  
     `# !curl -O https://raw.githubusercontent.com/jperkel/example_notebook/master/NC_005816.gb`  
 4. Uncomment this cell by removing the three leading `#`.
 5. Select `Runtime > Run All` in the menu to execute the notebook. (You may get a warning that the page was not authored by Google.) 
