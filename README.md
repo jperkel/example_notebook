@@ -8,10 +8,10 @@ This simple [Jupyter](https://jupyter.org/) notebook demonstrates how the comput
 But, unless you have Jupyter notebook installed on your computer, all you can do is view the notebooks, not play with them. (See for yourself: If you click `My_sample_notebook.ipynb` in this GitHub repository, you will be able to read the notebook, but only as a static document.) This is where [Binder](https://mybinder.org) and Google's [Colaboratory](https://research.google.com/colaboratory/) environment come in. Binder is a free, open-source, web service that packages Jupyter notebooks inside an executable container, which can be run within a web browser, no installation required. Colab allows users with Google accounts to execute Jupyter notebooks on the Google cloud. 
 
 **To use Binder:**
-1. Click the `launch binder` button above. Once the demo launches, click `My_sample_notebook.ipynb` in the file listing.
+1. Click the `launch binder` button above. Once the demo launches (, click `My_sample_notebook.ipynb` in the file listing.
 2. Run the notebook by selecting `Cell > Run All`.
 3. Take a look at the graph below the fifth cell (labeled 'The First 25 Fibonacci Numbers').
-4. Uncomment the line in the fourth cell that reads `# ax.plot (range(25), ar)` by removing the leading hashtag (`#`)
+4. Uncomment the line in the fifth cell that reads `# ax.plot (range(25), ar)` by removing the leading hashtag (`#`)
 5. Click `Cell > Run All` again. You should see a change in the graph below that cell.
 
 **To use Colab:**
@@ -24,5 +24,5 @@ But, unless you have Jupyter notebook installed on your computer, all you can do
 4. Uncomment this cell by removing the three leading `#`.
 5. Select `Runtime > Run All` in the menu to execute the notebook. (You may get a warning that the page was not authored by Google.) 
 6. Take a look at the graph below the fifth cell (labeled 'The First 25 Fibonacci Numbers').
-7. Uncomment the line in the fourth cell that reads `# ax.plot (range(25), ar)` by removing the leading hashtag (`#`)
+7. Uncomment the line in the fifth cell that reads `# ax.plot (range(25), ar)` by removing the leading hashtag (`#`)
 8. Click `Runtime > Run All` again. You should see a change in the graph below that cell.
