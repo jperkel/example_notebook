@@ -3,7 +3,7 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jperkel/example_notebook/master)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jperkel/example_notebook/blob/master/My_sample_notebook.ipynb)
 
-This simple [Jupyter](https://jupyter.org/) notebook -- written to accompany a [_Nature_ Toolbox](https://www.nature.com/articles/d41586-018-07196-1) feature published on 1 November 2018 -- demonstrates how the computational notebook format allows users to interleave text, code, and results in a single file.
+This simple [Jupyter](https://jupyter.org/) notebook -- written to accompany a [_Nature_ Toolbox](https://www.nature.com/articles/d41586-018-07196-1) feature published on 30 October 2018 -- demonstrates how the computational notebook format allows users to interleave text, code, and results in a single file.
 
 But, unless you have Jupyter notebook installed on your computer, all you can do is view the notebooks, not play with them. (See for yourself: If you click `My_sample_notebook.ipynb` in this GitHub repository, you will be able to read the notebook, but only as a static document.) This is where [Binder](https://mybinder.org) and Google's [Colaboratory](https://research.google.com/colaboratory/) environment come in. Binder is a free, open-source web service that packages Jupyter notebooks inside an executable container, which can be run within a web browser, no installation required. Colab allows users with Google accounts to execute Jupyter notebooks on the Google cloud. 
 
