@@ -4,7 +4,7 @@
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jperkel/example_notebook/blob/master/My_sample_notebook.ipynb)
 [![Open in Code Ocean](https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg)](https://codeocean.com/2018/11/09/why-jupyter-is-data-scientists-rsquo-computational-notebook-of-choice/code)
 
-_Updated 09 Nov 2018: This code can also be run in Code Ocean. Click [here](https://codeocean.com/2018/11/09/why-jupyter-is-data-scientists-rsquo-computational-notebook-of-choice/code) to launch the notebook on that platform. Thanks to Code Ocean's Simon Adar ([@SimonAdar](https://twitter.com/simonadar)) and Seth Green for the help!_
+_Updated 09 Nov 2018: This code can also be run in Code Ocean. Click [here](https://codeocean.com/2018/11/09/why-jupyter-is-data-scientists-rsquo-computational-notebook-of-choice/code) (or the button above) to launch the notebook on that platform. Thanks to Code Ocean's Simon Adar ([@SimonAdar](https://twitter.com/simonadar)) and [Seth Green](https://github.com/setgree) for the help!_
 
 This simple [Jupyter](https://jupyter.org/) notebook -- written to accompany a [_Nature_ Toolbox](https://www.nature.com/articles/d41586-018-07196-1) feature published on 30 October 2018 -- demonstrates how the computational notebook format allows users to interleave text, code, and results in a single file.
 
