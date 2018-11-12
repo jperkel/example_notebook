@@ -2,6 +2,7 @@
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jperkel/example_notebook/master)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jperkel/example_notebook/blob/master/My_sample_notebook.ipynb)
+[![Open in Code Ocean](https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg)](https://codeocean.com/2018/11/09/why-jupyter-is-data-scientists-rsquo-computational-notebook-of-choice/code)
 
 _Updated 09 Nov 2018: This code can also be run in Code Ocean. Click [here](https://codeocean.com/2018/11/09/why-jupyter-is-data-scientists-rsquo-computational-notebook-of-choice/code) to launch the notebook on that platform. Thanks to Code Ocean's Simon Adar ([@SimonAdar](https://twitter.com/simonadar)) and Seth Green for the help!_
 
