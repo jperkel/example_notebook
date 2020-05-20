@@ -1,5 +1,5 @@
 folium==0.6.0
 ipython==6.1.0
 matplotlib==2.1.0
-pandas==0.20.3
-biopython==1.70
+pandas==1.0.3
+biopython==1.76
